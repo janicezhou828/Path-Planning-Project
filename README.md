@@ -21,7 +21,7 @@ The datapoints are then put into the spline object. The point in the spline are 
 
 ## Result
 
-The car is able to achive the goal of not having accidents for 4.32 miles and did not break any traffic law.
+The car is able to achieve the goal of not having accidents for 4.32 miles and did not break any traffic law.
 
 ![Result](./Images/goal.png)
 
